@@ -1,3 +1,6 @@
+<img width="1100" height="733" alt="image" src="https://github.com/user-attachments/assets/a3fc90b7-f127-427c-90d2-dab01dda9c82" />
+
+
 #  Digital Marketing CTR (Click-Through Rate) Prediction
 
 Welcome to the **Digital Marketing CTR Prediction** project! This repository contains a robust, production-ready machine learning pipeline designed to predict whether a user will click on a digital advertisement based on their demographics and browsing behavior.
